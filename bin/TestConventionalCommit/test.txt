@@ -1,0 +1,6 @@
+git commit -m "feat: add login form with validation
+
+- Added username & password fields
+- Added basic client-side validation
+- Updated styles for login form
+"
